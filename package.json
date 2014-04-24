@@ -1,0 +1,22 @@
+{
+  "name": "object-locator",
+  "version": "0.0.1",
+  "author": "klaasvaak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Klaasvaak/Object-Locator"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/Klaasvaak/Object-Locator/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-mocha-test": "^0.10.2",
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/Klaasvaak/Object-Locator",
+  "keywords": [
+    "object locator, mixin, identifier, factory"
+  ]
+}

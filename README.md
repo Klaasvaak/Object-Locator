@@ -1,4 +1,4 @@
-Service-Locator
+Object-Locator
 ===============
 
-Service Locator in Node.js
+Object Locator in Node.js
